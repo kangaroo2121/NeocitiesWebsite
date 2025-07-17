@@ -95,6 +95,9 @@ div {
     width: 200px;
     color: #ffffff;
 }
+.button a {
+    text-decoration: none;
+}
 .button a:visited {
     color: #666d70;
 }
