@@ -98,3 +98,17 @@ div {
 .button a:visited {
     color: #666d70;
 }
+
+@media only screen and (max-width: 1000px) {
+.main {
+    margin: 20px 120px 20px 120px;
+}
+
+.topbar {
+    margin: 20px 150px 0 150px;
+}
+
+.topbar a {
+    padding: 0px 10px 0px 10px;
+}
+}
